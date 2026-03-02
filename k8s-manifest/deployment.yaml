@@ -13,8 +13,8 @@ spec:
       labels:
         app: school-web
     spec: 
-      - containers:
-          name: school-web-container
+      containers:
+        - name: school-web-container
           image: ajaykumar5292/school:v1.0.1
           ports:
             - containerPort: 80

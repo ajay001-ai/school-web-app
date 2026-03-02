@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  school-web:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2026-03-02T17:43:52.187229145Z"
+    description: A Helm chart for Kubernetes
+    digest: 18b4a1aefcf79fea5e8a2213f150cbc3179090907fea42a8b1eaa47c0b2d2d8d
+    name: school-web
+    type: application
+    urls:
+    - https://github.com/ajay001-ai/school-web-app/releases/download/school-web-0.1.1/school-web-0.1.1.tgz
+    version: 0.1.1
+generated: "2026-03-02T17:43:52.187234956Z"
